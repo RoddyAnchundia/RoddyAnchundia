@@ -1,6 +1,7 @@
 ### A wild JosueRoddy appeared 👋
 
-<iframe src="https://giphy.com/embed/FnGJfc18tDDHy" width="480" height="212" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<img src="https://media.giphy.com/media/FnGJfc18tDDHy/giphy.gif">
+
 
 
 - 👋 Hi, I’m @RoddyAnchundia 
