@@ -23,6 +23,30 @@ Hi, friends, my name is Roddy Anchundia a [photographer] fan of programming who 
 
 <img align="left" alt="JAVASCRIPT" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
+### Programs I use
+Social
+
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" >
+
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+
+
+### I USED
+<img src="https://img.shields.io/badge/Visual studio-1A75C8?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+
+<img src="https://img.shields.io/badge/Photoshop-4169E1?style=for-the-badge&logo=adobephotoshop&logoColor=white">
+
+<img src="https://img.shields.io/badge/Premiere pro-7A3ADA?style=for-the-badge&logo=adobepremierepro&logoColor=white">
+
+<img src="https://img.shields.io/badge/After effects-
+A910A7?style=for-the-badge&logo=adobeaftereffects&logoColor=white">
+
+<img src="https://img.shields.io/badge/Lightroom-
+065CD6?style=for-the-badge&logo=adobelightroom&logoColor=white">
 
 
 
