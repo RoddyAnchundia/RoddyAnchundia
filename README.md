@@ -36,11 +36,11 @@ Hi, friends, my name is Roddy Anchundia a [photographer] fan of programming who 
 
 
 ### I USED
-<img src="https://img.shields.io/badge/Visual studio-1A75C8?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-<img src="https://img.shields.io/badge/Photoshop-4169E1?style=for-the-badge&logo=adobephotoshop&logoColor=white">
-<img src="https://img.shields.io/badge/Premiere pro-7A3ADA?style=for-the-badge&logo=adobepremierepro&logoColor=white">
-<img src="https://img.shields.io/badge/After effects-A910A7?style=for-the-badge&logo=adobeaftereffects&logoColor=white">
-<img width="100px" src="https://img.shields.io/badge/Lightroom-065CD6?style=for-the-badge&logo=adobelightroom&logoColor=white">
+<img align= "left" src="https://img.shields.io/badge/Visual studio-1A75C8?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/Photoshop-4169E1?style=for-the-badge&logo=adobephotoshop&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/Premiere pro-7A3ADA?style=for-the-badge&logo=adobepremierepro&logoColor=white">
+<img align= "left" src="https://img.shields.io/badge/After effects-A910A7?style=for-the-badge&logo=adobeaftereffects&logoColor=white">
+<img align= "left" width="100px" src="https://img.shields.io/badge/Lightroom-065CD6?style=for-the-badge&logo=adobelightroom&logoColor=white">
 
 
 
