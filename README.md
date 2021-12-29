@@ -32,14 +32,14 @@ Hi, friends, my name is Roddy Anchundia a [photographer] fan of programming who 
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" >
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-<p><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"><p>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 
 
-### I USED
+### I used
 <img align= "left" src="https://img.shields.io/badge/Visual studio-1A75C8?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/Photoshop-4169E1?style=for-the-badge&logo=adobephotoshop&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/Premiere pro-7A3ADA?style=for-the-badge&logo=adobepremierepro&logoColor=white">
-<img align= "left" src="https://img.shields.io/badge/After effects-A910A7?style=for-the-badge&logo=adobeaftereffects&logoColor=white">
+<img src="https://img.shields.io/badge/After effects-A910A7?style=for-the-badge&logo=adobeaftereffects&logoColor=white">
 <img align= "left" width="100px" src="https://img.shields.io/badge/Lightroom-065CD6?style=for-the-badge&logo=adobelightroom&logoColor=white">
 
 
