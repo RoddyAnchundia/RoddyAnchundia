@@ -24,7 +24,6 @@ Hi, friends, my name is Roddy Anchundia a [photographer] fan of programming who 
 <img align="left" alt="JAVASCRIPT" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
 
-<img src="https://novatorem-kbjkk15hb-roddyanchundia.vercel.app" alt="JOSUERODDY spotify playing" width="350" />
 
 
 <!--  Links -->
