@@ -5,15 +5,23 @@
 ![alt text](https://github.com/RoddyAnchundia/RoddyAnchundia/blob/1521c7c1cc7dba99a3bcc4ab030b596674a66980/josueroddy.gif/)
 
 
-Hi, friends, my name is Roddy Anchundia a [photographer] fan of programming who is now beginning to learn the basic languages. I am currently studying software development. ✨
+Hi, friends, my name is Roddy Anchundia, a [photographer] fan of programming who is now beginning to learn the basic languages. I am currently studying software development. ✨
+
+### 🦁 Personal
+
+- 📸 I love take photos
+- 🐶 I have a dog, her name is Kira
+- 🔦 My favorite serie is Stranger Things
+- 🎤My favorite band is Imagine dragons
 
 ### 🌱 Web Development 
 
 
-- 📕I’m currently learning more about web dev, english and POO
+- 📕 I’m currently learning more about web dev, english and POO
 - 💬 Ask me about to be a web dev
 - 😄 Pronouns: 'he/him'
 - ⚡ Work: I work in an audiovisual production company
+
 
 ### 💻 Coding 
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
