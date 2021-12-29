@@ -2,7 +2,7 @@
 
 <img align="center" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 
-![alt text](banner)
+![alt text](https://github.com/RoddyAnchundia/RoddyAnchundia/blob/1521c7c1cc7dba99a3bcc4ab030b596674a66980/josueroddy.gif/)
 
 
 Hi, friends, my name is Roddy Anchundia a [photographer] fan of programming who is now beginning to learn the basic languages. I am currently studying software development. ✨
