@@ -23,8 +23,11 @@ Hi, friends, my name is Roddy Anchundia a [photographer] fan of programming who 
 
 <img align="left" alt="JAVASCRIPT" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
-### Programs I use
-Social
+<br/>
+
+<br/>
+
+### Social
 
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" >
 
@@ -45,7 +48,7 @@ Social
 <img src="https://img.shields.io/badge/After effects-
 A910A7?style=for-the-badge&logo=adobeaftereffects&logoColor=white">
 
-<img src="https://img.shields.io/badge/Lightroom-
+<img width="100px" src="https://img.shields.io/badge/Lightroom-
 065CD6?style=for-the-badge&logo=adobelightroom&logoColor=white">
 
 
