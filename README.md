@@ -56,4 +56,4 @@ Hi, friends, my name is Roddy Anchundia a [photographer] fan of programming who 
 
 <!--  Links -->
 [photographer]: https://www.instagram.com/josueroddy/
-[banner]: https://github.com/RoddyAnchundia/RoddyAnchundia/blob/main/josueroddy.gif
+[banner]: https://github.com/RoddyAnchundia/RoddyAnchundia/blob/1521c7c1cc7dba99a3bcc4ab030b596674a66980/josueroddy.gif/
