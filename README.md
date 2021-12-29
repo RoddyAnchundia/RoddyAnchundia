@@ -1,4 +1,4 @@
-## A wild JosueRoddy appeared 👋
+# A wild JosueRoddy appeared 👋
 
 <img align="center" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 
@@ -29,13 +29,16 @@ Hi, friends, my name is Roddy Anchundia a [photographer] fan of programming who 
 
 ### 🤝 Social
 
-<img align="left" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" >
-<img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-<img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/josueroddy)](https://t.me/josueroddy)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/josueroddy/)](https://www.instagram.com/josueroddy/)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/RoddyAnchundia)](https://github.com/RoddyAnchundia)
+
+
 
 
 ### 📊 I used
+
 <img align= "left" src="https://img.shields.io/badge/Visual studio-1A75C8?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/Photoshop-4169E1?style=for-the-badge&logo=adobephotoshop&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/Premiere pro-7A3ADA?style=for-the-badge&logo=adobepremierepro&logoColor=white">
