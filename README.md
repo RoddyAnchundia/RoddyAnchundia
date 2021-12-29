@@ -39,11 +39,16 @@ Hi, friends, my name is Roddy Anchundia a [photographer] fan of programming who 
 
 ### 📊 I used
 
-<img align= "left" src="https://img.shields.io/badge/Visual studio-1A75C8?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-<img align="left" src="https://img.shields.io/badge/Photoshop-4169E1?style=for-the-badge&logo=adobephotoshop&logoColor=white">
-<img align="left" src="https://img.shields.io/badge/Premiere pro-7A3ADA?style=for-the-badge&logo=adobepremierepro&logoColor=white">
-<img src="https://img.shields.io/badge/After effects-A910A7?style=for-the-badge&logo=adobeaftereffects&logoColor=white">
-<img src="https://img.shields.io/badge/Lightroom-065CD6?style=for-the-badge&logo=adobelightroom&logoColor=white">
+
+[![Visual Badge](https://img.shields.io/badge/Visual_studio-1A75C8?style=for-the-badge&logo=visualstudio&logoColor=white&link=https://code.visualstudio.com/?wt.mc_id=vscom_downloads)](https://code.visualstudio.com/?wt.mc_id=vscom_downloads)
+[![Photoshop Badge](https://img.shields.io/badge/Photoshop-4169E1?style=for-the-badge&logo=adobephotoshop&logoColor=white&link=https://www.adobe.com/la/products/photoshop.html?sdid=KQPQZ&mv=search&ef_id=CjwKCAiAiKuOBhBQEiwAId_sK6fVUI2mjuWQv4mWbrv1Bnnpt0Pq6oGJ01o1nQhqoufkb1pfPHDtghoCdasQAvD_BwE:G:s&s_kwcid=AL!3085!3!473120598120!e!!g!!descargar%20photoshop!9499870550!97813451238)](https://www.adobe.com/la/products/photoshop.html?sdid=KQPQZ&mv=search&ef_id=CjwKCAiAiKuOBhBQEiwAId_sK6fVUI2mjuWQv4mWbrv1Bnnpt0Pq6oGJ01o1nQhqoufkb1pfPHDtghoCdasQAvD_BwE:G:s&s_kwcid=AL!3085!3!473120598120!e!!g!!descargar%20photoshop!9499870550!97813451238)
+[![Premiere Badge](https://img.shields.io/badge/Premiere_pro-7A3ADA?style=for-the-badge&logo=adobepremierepro&logoColor=white&link=https://www.adobe.com/la/products/premiere.html?sdid=KQPRY&mv=search&ef_id=CjwKCAiAiKuOBhBQEiwAId_sK9zkjwc2UzGYI6NP-1h_1R7IuJ-2EYvAp7QI6AFl2m_s7e673XPurhoCDPsQAvD_BwE:G:s&s_kwcid=AL!3085!3!442303212699!e!!g!!premiere%20pro!9499870688!97813424878)](https://www.adobe.com/la/products/premiere.html?sdid=KQPRY&mv=search&ef_id=CjwKCAiAiKuOBhBQEiwAId_sK9zkjwc2UzGYI6NP-1h_1R7IuJ-2EYvAp7QI6AFl2m_s7e673XPurhoCDPsQAvD_BwE:G:s&s_kwcid=AL!3085!3!442303212699!e!!g!!premiere%20pro!9499870688!97813424878)
+[![After Badge](https://img.shields.io/badge/After_effects-A910A7?style=for-the-badge&logo=adobeaftereffects&logoColor=white&link=https://www.adobe.com/la/products/aftereffects.html?sdid=KQPRU&mv=search&ef_id=CjwKCAiAiKuOBhBQEiwAId_sKxHogBcHaUbylH2hFWBdix_hPh58K_j4dlHnhS9l48obAkA5eLKdhRoC0NEQAvD_BwE:G:s&s_kwcid=AL!3085!3!459876013380!e!!g!!after%20effect!9499870787!97813411118)](https://www.adobe.com/la/products/aftereffects.html?sdid=KQPRU&mv=search&ef_id=CjwKCAiAiKuOBhBQEiwAId_sKxHogBcHaUbylH2hFWBdix_hPh58K_j4dlHnhS9l48obAkA5eLKdhRoC0NEQAvD_BwE:G:s&s_kwcid=AL!3085!3!459876013380!e!!g!!after%20effect!9499870787!97813411118)
+[![Lightroom Badge](https://img.shields.io/badge/Lightroom-065CD6?style=for-the-badge&logo=adobelightroom&logoColor=white&link=https://www.adobe.com/la/products/photoshop-lightroom.html?sdid=KQPQZ&mv=search&ef_id=CjwKCAiAiKuOBhBQEiwAId_sK5FzqBldL7fcshnGjh-1Ad1-l5seXUwbEIB6wbz0A0St-iudXB-Q9BoCMRMQAvD_BwE:G:s&s_kwcid=AL!3085!3!459896392444!e!!g!!lightroom!9499870559!97813450558)](https://www.adobe.com/la/products/photoshop-lightroom.html?sdid=KQPQZ&mv=search&ef_id=CjwKCAiAiKuOBhBQEiwAId_sK5FzqBldL7fcshnGjh-1Ad1-l5seXUwbEIB6wbz0A0St-iudXB-Q9BoCMRMQAvD_BwE:G:s&s_kwcid=AL!3085!3!459896392444!e!!g!!lightroom!9499870559!97813450558)
+
+
+
+
 
 
 
