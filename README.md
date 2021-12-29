@@ -45,11 +45,9 @@ Hi, friends, my name is Roddy Anchundia a [photographer] fan of programming who 
 
 <img src="https://img.shields.io/badge/Premiere pro-7A3ADA?style=for-the-badge&logo=adobepremierepro&logoColor=white">
 
-<img src="https://img.shields.io/badge/After effects-
-A910A7?style=for-the-badge&logo=adobeaftereffects&logoColor=white">
+<img src="https://img.shields.io/badge/After effects-A910A7?style=for-the-badge&logo=adobeaftereffects&logoColor=white">
 
-<img width="100px" src="https://img.shields.io/badge/Lightroom-
-065CD6?style=for-the-badge&logo=adobelightroom&logoColor=white">
+<img width="100px" src="https://img.shields.io/badge/Lightroom-065CD6?style=for-the-badge&logo=adobelightroom&logoColor=white">
 
 
 
